@@ -1,4 +1,5 @@
-
+## Dependencies
+* node v14.15.1
 
 ### Run postgres locally
 If init.sql has been updated:
